@@ -49,10 +49,3 @@ names(data)
 4. Data: enable user to see the data and download it. 
 
 ---
-
-## End
-
-Thank you! 
-Do you like it?
-
----
